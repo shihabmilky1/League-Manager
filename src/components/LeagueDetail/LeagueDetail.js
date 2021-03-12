@@ -41,7 +41,7 @@ const LeagueDetail = () => {
     return (
         <div>
             <section style={stadiumGalary}>
-                <img src={strLogo} className="img-fluid w-25 mx-auto" alt="" />
+                <img src={strLogo} className="img-fluid w-25 mx-auto"/>
             </section>
             <section style={{backgroundColor:'#efefef',padding:'20px 0px'}}>
                 <div className="container">

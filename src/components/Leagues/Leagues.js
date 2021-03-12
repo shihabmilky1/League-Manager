@@ -21,7 +21,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={EnglishPremierLeague} className="card-img-top " style={images} alt="..."/>
+      <img src={EnglishPremierLeague} className="card-img-top " style={images}/>
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -38,7 +38,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={EFLCUP} className="card-img-top"  style={images} alt="..."/>
+      <img src={EFLCUP} className="card-img-top"  style={images} />
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -53,7 +53,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={EFLCHAPMIONSHIP} className="card-img-top"  style={images} alt="..."/>
+      <img src={EFLCHAPMIONSHIP} className="card-img-top"  style={images}/>
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -69,7 +69,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={UEFACHAPMIONS} className="card-img-top"  style={images} alt="..."/>
+      <img src={UEFACHAPMIONS} className="card-img-top"  style={images} />
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -85,7 +85,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={UEFAEUROPE} className="card-img-top"  style={images} alt="..."/>
+      <img src={UEFAEUROPE} className="card-img-top"  style={images}/>
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -101,7 +101,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3 ">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={LALIGA} className="card-img-top"  style={images} alt="..."/>
+      <img src={LALIGA} className="card-img-top"  style={images} />
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -117,7 +117,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3 ">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={FACUP} className="card-img-top"  style={images} alt="..."/>
+      <img src={FACUP} className="card-img-top"  style={images}/>
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -133,7 +133,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3 ">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={MAJORLEAGUE} className="card-img-top"  style={images} alt="..."/>
+      <img src={MAJORLEAGUE} className="card-img-top"  style={images}/>
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
@@ -149,7 +149,7 @@ const Leagues = (props) => {
         leagueInformation = 
         <div className="col-lg-4 py-3 ">
     <div className="card h-100 text-center custom-card shadow p-3">
-      <img src={SCOTTISH} className="card-img-top"  style={images} alt="..."/>
+      <img src={SCOTTISH} className="card-img-top"  style={images}/>
       <div className="card-body">
         <h5 className="card-title">{leagueName}</h5>
       </div>
